@@ -1,5 +1,4 @@
-import { WEATHER_API_URL, WEATHER_API_KEY } from '../../api';
-import React, { useState } from 'react';
+import React from 'react';
 import './header.css'
 const Header = () => {
     return (
