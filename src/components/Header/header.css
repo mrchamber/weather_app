@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+.header{
+    background-image: url('../../assets/pattern.svg');
+}
+.search-top{
+    display: flex;
+    align-items: left;
+    left: 100px;
+}
